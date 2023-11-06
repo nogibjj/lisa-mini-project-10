@@ -1,15 +1,16 @@
 # Work with PySpark DataFrames on Azure Databricks
-A self-guided learning project
+A self-guided learning endeavor. *Weekly mini project 10 for Data Engineering Class*
 
-## My Learning Goal for the lab:
-1. Understand what is PySpark. Why is it important? How is it compared to other related tools? What is its future?
-2. Set up a Azure Databricks with the power to process large data. Probably I will pay for the service.
-3. But I want to know how much of computing power should I purchase. How large the dataset I should process. I want to understand the relationship between the the computing power, the dataset, and the processing language, gain a holistic picture. And learn how to make architectual decision such as what language, database to use for my projects.
+## My Learning Objectives for the Lab:
+1. Gain a comprehensive understanding of PySpark, its significance in the data processing landscape, and its comparisons to other relevant tools. Explore its future prospects.
+2. Establish an Azure Databricks environment with the capability to handle substantial datasets, even if it involves paying for the service.
+3. Determine the optimal computing power and dataset size for my specific needs. Delve into the intricate relationship between computational resources, dataset dimensions, and choice of programming language. Develop the ability to make informed architectural decisions, including language and database selection for future projects.
 
-## Resources for doing my resource:
-Coursera: Week 1: Overview and Introduction to PySpark
-I referred to the [Tutorial](https://learn.microsoft.com/en-us/azure/databricks/getting-started/dataframes-python)
+## Resources I've Leveraged:
+* Coursera course: Week 1, providing an Overview and Introduction to PySpark.
+* Azure Databricks' documentation and [tutorial](https://learn.microsoft.com/en-us/azure/databricks/getting-started/dataframes-python)
 
+  
 ## Approach to the problem
 ### Load data into a DataFrame from 
 
